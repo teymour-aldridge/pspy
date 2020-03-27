@@ -1,1 +1,1 @@
-pseudocode = 
+pseudocode = input("Please enter your pseudocode: ")
